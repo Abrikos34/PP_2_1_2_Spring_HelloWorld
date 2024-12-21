@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be17a028-8470-4e18-94d9-8bbd2c5d36d3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/App.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/AppConfig.class" afterDir="false" />
-    </list>
+    <list default="true" id="be17a028-8470-4e18-94d9-8bbd2c5d36d3" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +28,7 @@
 }]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
-    "url": "https://github.com/KataAcademy/PP_2_1_2_Spring_HelloWorld.git",
+    "url": "https://github.com/Abrikos34/PP_2_1_2_Spring_HelloWorld.git",
     "accountId": "92dd6af9-c62f-4670-8a0b-faca2b3113e9"
   }
 }]]></component>
@@ -101,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734820469308</updated>
-      <workItem from="1734820470361" duration="2013000" />
+      <workItem from="1734820470361" duration="2315000" />
     </task>
     <servers />
   </component>
